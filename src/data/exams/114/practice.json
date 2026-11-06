@@ -1,0 +1,1314 @@
+{
+  "year": 114,
+  "subject": "practice",
+  "questions": [
+    {
+      "id": "114-practice-1",
+      "year": 114,
+      "subject": "practice",
+      "number": 1,
+      "text": "「金氏世界紀錄中最重的南瓜為 1,247 公斤，大概是 30 位國小生的重量。」以上描述屬於何種解說技巧？",
+      "options": [
+        {
+          "key": "A",
+          "text": "提問法"
+        },
+        {
+          "key": "B",
+          "text": "濃縮法"
+        },
+        {
+          "key": "C",
+          "text": "演算法"
+        },
+        {
+          "key": "D",
+          "text": "對比法"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-2",
+      "year": 114,
+      "subject": "practice",
+      "number": 2,
+      "text": "下列那種解說告示牌的背景顏色與文字顏色搭配最不適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "白底黑字"
+        },
+        {
+          "key": "B",
+          "text": "藍底白字"
+        },
+        {
+          "key": "C",
+          "text": "綠底紅字"
+        },
+        {
+          "key": "D",
+          "text": "黃底黑字"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-3",
+      "year": 114,
+      "subject": "practice",
+      "number": 3,
+      "text": "下列何者不是針對年長遊客導覽解說時須注意的事項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "以安全為首要條件"
+        },
+        {
+          "key": "B",
+          "text": "解說內容多融合年長遊客的生活經驗"
+        },
+        {
+          "key": "C",
+          "text": "解說時須留意行進速度"
+        },
+        {
+          "key": "D",
+          "text": "考量年長者記性差，解說片段內容即可"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-4",
+      "year": 114,
+      "subject": "practice",
+      "number": 4,
+      "text": "相較於人員解說，「非人員解說」方式具有下列何種優勢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以即時提供解說服務"
+        },
+        {
+          "key": "B",
+          "text": "容易處理緊急狀況"
+        },
+        {
+          "key": "C",
+          "text": "能激發深度討論"
+        },
+        {
+          "key": "D",
+          "text": "能根據遊客狀況調整解說內容"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-5",
+      "year": 114,
+      "subject": "practice",
+      "number": 5,
+      "text": "下列有關解說的描述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "解說方式即興發揮即可"
+        },
+        {
+          "key": "B",
+          "text": "專業知識是解說的基礎"
+        },
+        {
+          "key": "C",
+          "text": "解說重點在於啟發受眾者"
+        },
+        {
+          "key": "D",
+          "text": "解說過程應從整體面說明"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-6",
+      "year": 114,
+      "subject": "practice",
+      "number": 6,
+      "text": "下列何種解說方式不適合運用在規劃自導式步道解說？",
+      "options": [
+        {
+          "key": "A",
+          "text": "解說摺頁"
+        },
+        {
+          "key": "B",
+          "text": "解說牌"
+        },
+        {
+          "key": "C",
+          "text": "錄音解說 3D"
+        },
+        {
+          "key": "D",
+          "text": "影片解說"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-7",
+      "year": 114,
+      "subject": "practice",
+      "number": 7,
+      "text": "一般在旅遊景點聆聽導覽解說的遊客多是所謂的非受制聽眾（Non - captive audiences），有關非受制聽眾 的特徵，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不需對時間做承諾"
+        },
+        {
+          "key": "B",
+          "text": "自願前來聆聽"
+        },
+        {
+          "key": "C",
+          "text": "必定專注學習"
+        },
+        {
+          "key": "D",
+          "text": "額外獎勵不重要"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-8",
+      "year": 114,
+      "subject": "practice",
+      "number": 8,
+      "text": "在導覽解說時可運用一些技巧吸引聽眾的注意，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "運用停頓與沉默"
+        },
+        {
+          "key": "B",
+          "text": "聽眾吵鬧時當場斥責"
+        },
+        {
+          "key": "C",
+          "text": "講故事或提問題"
+        },
+        {
+          "key": "D",
+          "text": "改變聲音或講話速度"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-9",
+      "year": 114,
+      "subject": "practice",
+      "number": 9,
+      "text": "解說媒體可分為人員解說服務及非人員解說服務兩個部分，下列何者屬於人員解說服務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "展示設施"
+        },
+        {
+          "key": "B",
+          "text": "現場表演"
+        },
+        {
+          "key": "C",
+          "text": "視聽器材"
+        },
+        {
+          "key": "D",
+          "text": "行動裝置"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-10",
+      "year": 114,
+      "subject": "practice",
+      "number": 10,
+      "text": "臺灣參考聯合國永續發展 17 項核心目標，研訂出臺灣永續發展 18 項核心目標，其中下列何者為臺灣特 有之本土目標？",
+      "options": [
+        {
+          "key": "A",
+          "text": "確保環境品質及永續管理環境資源"
+        },
+        {
+          "key": "B",
+          "text": "逐步達成環境基本法所定非核家園目標"
+        },
+        {
+          "key": "C",
+          "text": "促進綠色經濟，確保永續消費及生產模式"
+        },
+        {
+          "key": "D",
+          "text": "保育及永續利用海洋生態系，防止海洋環境劣化"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-11",
+      "year": 114,
+      "subject": "practice",
+      "number": 11,
+      "text": "帶團解說時應注意事項，下列何者不適宜？",
+      "options": [
+        {
+          "key": "A",
+          "text": "注意後面隊伍是否有跟上，避免拖長隊伍"
+        },
+        {
+          "key": "B",
+          "text": "到據點導覽時，不必等所有團員到達即可進行解說"
+        },
+        {
+          "key": "C",
+          "text": "可以引導遊客提出問題"
+        },
+        {
+          "key": "D",
+          "text": "預留一點時間，讓遊客自己去觀察體驗"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-12",
+      "year": 114,
+      "subject": "practice",
+      "number": 12,
+      "text": "下列旅遊緊急事故處理方式，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "遇到搶劫時應盡力拖延反抗並撥打當地警察局電話求援"
+        },
+        {
+          "key": "B",
+          "text": "行李箱上應掛上行李牌並寫上姓名、地址及電話以利辨識"
+        },
+        {
+          "key": "C",
+          "text": "為避免部分地區無法刷卡，出國前應換足大量鈔票以為備用"
+        },
+        {
+          "key": "D",
+          "text": "勿替陌生人攜帶行李物品，以防內有毒品或其他違禁品"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-13",
+      "year": 114,
+      "subject": "practice",
+      "number": 13,
+      "text": "下列旅途常見的疾病，何者與蚊蟲叮咬無關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "瘧疾"
+        },
+        {
+          "key": "B",
+          "text": "黃熱病"
+        },
+        {
+          "key": "C",
+          "text": "霍亂"
+        },
+        {
+          "key": "D",
+          "text": "登革熱"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-14",
+      "year": 114,
+      "subject": "practice",
+      "number": 14,
+      "text": "在旅行團出團期間，下列事故何者完全歸屬於旅行業的責任？",
+      "options": [
+        {
+          "key": "A",
+          "text": "颱風"
+        },
+        {
+          "key": "B",
+          "text": "接團的車子爆胎"
+        },
+        {
+          "key": "C",
+          "text": "道路中斷"
+        },
+        {
+          "key": "D",
+          "text": "搭乘的班機臨時取消"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-15",
+      "year": 114,
+      "subject": "practice",
+      "number": 15,
+      "text": "下列有關旅客住宿旅館發生火災的應變措施，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "儘速通報並迅速搭乘電梯往大廳方向疏散"
+        },
+        {
+          "key": "B",
+          "text": "遇濃煙時，以濕毛巾覆面，採低姿勢沿牆面，朝出口方向移動"
+        },
+        {
+          "key": "C",
+          "text": "試摸門把，如果已經很燙，應快速用濕毛巾覆蓋門把，打開房門往外逃"
+        },
+        {
+          "key": "D",
+          "text": "儘量往高樓層逃，勿往低樓層逃"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-16",
+      "year": 114,
+      "subject": "practice",
+      "number": 16,
+      "text": "下列有關旅客參加旅行團前應有的風險意識，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "攜帶大量的現金，以便購物"
+        },
+        {
+          "key": "B",
+          "text": "選擇團費明顯偏低的旅行團"
+        },
+        {
+          "key": "C",
+          "text": "慎選合法及信用良好的旅行社"
+        },
+        {
+          "key": "D",
+          "text": "不需考慮旅遊地的治安及天候"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-17",
+      "year": 114,
+      "subject": "practice",
+      "number": 17,
+      "text": "下列有關旅客住宿旅館使用游泳池設施之注意事項，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "確認救生設備是否完善"
+        },
+        {
+          "key": "B",
+          "text": "在游泳池開放時間前進入游泳"
+        },
+        {
+          "key": "C",
+          "text": "告知旅館服務檯人員，即可進入游泳"
+        },
+        {
+          "key": "D",
+          "text": "趁救生員不在時進入游泳"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-18",
+      "year": 114,
+      "subject": "practice",
+      "number": 18,
+      "text": "下列有關團體旅遊行程中的財物安全注意事項，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "提醒團員將現金存放在旅館的保險箱"
+        },
+        {
+          "key": "B",
+          "text": "提醒團員逛夜市時，儘量將背包置於背後並留意扒手"
+        },
+        {
+          "key": "C",
+          "text": "逛鬧區時，提醒男團員可將皮夾放置於褲後口袋，以防被扒"
+        },
+        {
+          "key": "D",
+          "text": "團員財物遭竊時，應立即向交通部觀光署通報"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-19",
+      "year": 114,
+      "subject": "practice",
+      "number": 19,
+      "text": "下列何者不屬於「機關、團體租（使）用遊覽車出發前檢查及逃生演練紀錄表」所必須檢查之項目？",
+      "options": [
+        {
+          "key": "A",
+          "text": "酒精測試"
+        },
+        {
+          "key": "B",
+          "text": "車窗擊破裝置"
+        },
+        {
+          "key": "C",
+          "text": "遊覽車出廠售價"
+        },
+        {
+          "key": "D",
+          "text": "安全逃生解說示範"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-20",
+      "year": 114,
+      "subject": "practice",
+      "number": 20,
+      "text": "依據「交通部觀光署災害防救緊急應變通報作業要點」，在國家風景區內發生 3 人以上旅客死亡或 9 人 以下旅客死傷之旅遊事故，屬於那級災害規模？",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲級"
+        },
+        {
+          "key": "B",
+          "text": "乙級"
+        },
+        {
+          "key": "C",
+          "text": "丙級"
+        },
+        {
+          "key": "D",
+          "text": "丁級"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-21",
+      "year": 114,
+      "subject": "practice",
+      "number": 21,
+      "text": "外交部將某國旅遊警示列為紅色，其所代表的意義為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "提醒注意"
+        },
+        {
+          "key": "B",
+          "text": "特別注意旅遊安全並檢討應否前往"
+        },
+        {
+          "key": "C",
+          "text": "避免非必要旅行"
+        },
+        {
+          "key": "D",
+          "text": "不宜前往"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-22",
+      "year": 114,
+      "subject": "practice",
+      "number": 22,
+      "text": "下列何者是影響觀光消費行為的內在因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社會階層"
+        },
+        {
+          "key": "B",
+          "text": "教育程度"
+        },
+        {
+          "key": "C",
+          "text": "參考團體"
+        },
+        {
+          "key": "D",
+          "text": "文化規範"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-23",
+      "year": 114,
+      "subject": "practice",
+      "number": 23,
+      "text": "下列何者是觀光旅客旅程的第一階段？",
+      "options": [
+        {
+          "key": "A",
+          "text": "決策"
+        },
+        {
+          "key": "B",
+          "text": "預約"
+        },
+        {
+          "key": "C",
+          "text": "參訪"
+        },
+        {
+          "key": "D",
+          "text": "付款"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-24",
+      "year": 114,
+      "subject": "practice",
+      "number": 24,
+      "text": "以「生活型態」將觀光客區分為不同族群，是屬於下列何種區隔？",
+      "options": [
+        {
+          "key": "A",
+          "text": "人口統計區隔"
+        },
+        {
+          "key": "B",
+          "text": "地理區隔"
+        },
+        {
+          "key": "C",
+          "text": "行為區隔"
+        },
+        {
+          "key": "D",
+          "text": "心理區隔"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-25",
+      "year": 114,
+      "subject": "practice",
+      "number": 25,
+      "text": "導遊的導覽解說服務，無法讓旅客完全滿意。這說明服務的下列何種特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "異質性"
+        },
+        {
+          "key": "B",
+          "text": "易逝性"
+        },
+        {
+          "key": "C",
+          "text": "不可分割性"
+        },
+        {
+          "key": "D",
+          "text": "無形性"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-26",
+      "year": 114,
+      "subject": "practice",
+      "number": 26,
+      "text": "當國際旅客前來臺灣所需的旅遊成本較高而影響其意願，是屬於下列何種因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "距離摩擦力"
+        },
+        {
+          "key": "B",
+          "text": "距離促進力"
+        },
+        {
+          "key": "C",
+          "text": "安全因素"
+        },
+        {
+          "key": "D",
+          "text": "異國偏好"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-27",
+      "year": 114,
+      "subject": "practice",
+      "number": 27,
+      "text": "外國旅客在臺灣旅遊後，對臺灣的印象是「美食的天堂」及「友善的人民」，此在描述下列何者的形成？",
+      "options": [
+        {
+          "key": "A",
+          "text": "知覺價值"
+        },
+        {
+          "key": "B",
+          "text": "知覺風險"
+        },
+        {
+          "key": "C",
+          "text": "目的地意象"
+        },
+        {
+          "key": "D",
+          "text": "目的地忠誠度"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-28",
+      "year": 114,
+      "subject": "practice",
+      "number": 28,
+      "text": "廣告中透過海島景觀與水上活動反覆呈現，以形成遊客對目的地的印象，是屬於下列何特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對比律"
+        },
+        {
+          "key": "B",
+          "text": "背景律"
+        },
+        {
+          "key": "C",
+          "text": "色彩強度"
+        },
+        {
+          "key": "D",
+          "text": "對稱律"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-29",
+      "year": 114,
+      "subject": "practice",
+      "number": 29,
+      "text": "遊客被旅遊目的地的壯麗風景、名勝古蹟與獨特文化吸引而選擇前往，是屬於下列何種動機？",
+      "options": [
+        {
+          "key": "A",
+          "text": "拉力"
+        },
+        {
+          "key": "B",
+          "text": "推力"
+        },
+        {
+          "key": "C",
+          "text": "阻力"
+        },
+        {
+          "key": "D",
+          "text": "反應力"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-30",
+      "year": 114,
+      "subject": "practice",
+      "number": 30,
+      "text": "遊客經常觀看某航空公司所提供舒適服務與優惠活動的廣告，之後每聽到該航空公司名字就會感到愉悅 與期待，這是屬於下列何種學習理論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "古典制約"
+        },
+        {
+          "key": "B",
+          "text": "操作制約"
+        },
+        {
+          "key": "C",
+          "text": "社會學習"
+        },
+        {
+          "key": "D",
+          "text": "認知學習"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-31",
+      "year": 114,
+      "subject": "practice",
+      "number": 31,
+      "text": "旅客在旅遊途中突然感到身體不適，導遊立即安排醫療協助。這是強調服務品質的那個層面？",
+      "options": [
+        {
+          "key": "A",
+          "text": "有形性"
+        },
+        {
+          "key": "B",
+          "text": "可靠性"
+        },
+        {
+          "key": "C",
+          "text": "反應性"
+        },
+        {
+          "key": "D",
+          "text": "保證性"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-32",
+      "year": 114,
+      "subject": "practice",
+      "number": 32,
+      "text": "旅客參加團體旅遊時，看到其他團員紛紛在特定的方位角度拍照，因此也拿起相機一起拍照，這是屬於下 列何種心理行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "情感涉入"
+        },
+        {
+          "key": "B",
+          "text": "比對作用"
+        },
+        {
+          "key": "C",
+          "text": "同化效應"
+        },
+        {
+          "key": "D",
+          "text": "從眾行為"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-33",
+      "year": 114,
+      "subject": "practice",
+      "number": 33,
+      "text": "下列何者是影響旅客觀光知覺的外部刺激因素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "過去旅遊經驗"
+        },
+        {
+          "key": "B",
+          "text": "感官傳遞"
+        },
+        {
+          "key": "C",
+          "text": "景點大小"
+        },
+        {
+          "key": "D",
+          "text": "個人文化背景"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-34",
+      "year": 114,
+      "subject": "practice",
+      "number": 34,
+      "text": "臺灣旅行社代理外國航空公司在臺業務之營運方式，會以下列那一個英文縮寫表示？",
+      "options": [
+        {
+          "key": "A",
+          "text": "GSC GSA"
+        },
+        {
+          "key": "B",
+          "text": "FSC"
+        },
+        {
+          "key": "C",
+          "text": "LCC"
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-35",
+      "year": 114,
+      "subject": "practice",
+      "number": 35,
+      "text": "有關 IATA 航空公司代號及該航空公司所屬國籍之配對（前為航空公司代號、後為航空公司國籍），下列 何組錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "DL、美國 NH"
+        },
+        {
+          "key": "B",
+          "text": "、日本 QH"
+        },
+        {
+          "key": "C",
+          "text": "、越南 QF"
+        },
+        {
+          "key": "D",
+          "text": "、卡達"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-36",
+      "year": 114,
+      "subject": "practice",
+      "number": 36,
+      "text": "下列那個機場代碼，其所在地不在歐洲地區？",
+      "options": [
+        {
+          "key": "A",
+          "text": "CPH"
+        },
+        {
+          "key": "B",
+          "text": "HAM"
+        },
+        {
+          "key": "C",
+          "text": "HAN MXP"
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-37",
+      "year": 114,
+      "subject": "practice",
+      "number": 37,
+      "text": "下列旅客機票票種之英文縮寫，何者表示「團體旅遊票」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "GV CG"
+        },
+        {
+          "key": "B",
+          "text": "DG"
+        },
+        {
+          "key": "C",
+          "text": "SD"
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-38",
+      "year": 114,
+      "subject": "practice",
+      "number": 38,
+      "text": "依據我國「民用航空法」規定，航空公司對乘客隨身行李賠償之責任，每位乘客最高不得超過新臺幣多少 元？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一萬元"
+        },
+        {
+          "key": "B",
+          "text": "二萬元"
+        },
+        {
+          "key": "C",
+          "text": "三萬元"
+        },
+        {
+          "key": "D",
+          "text": "四萬元"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-39",
+      "year": 114,
+      "subject": "practice",
+      "number": 39,
+      "text": "對於不占座位的嬰兒旅客，通常會以下列何者訂位狀態代碼表示？",
+      "options": [
+        {
+          "key": "A",
+          "text": "PB SA"
+        },
+        {
+          "key": "B",
+          "text": "NS"
+        },
+        {
+          "key": "C",
+          "text": "OPEN"
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-40",
+      "year": 114,
+      "subject": "practice",
+      "number": 40,
+      "text": "有關公共場所自動體外電擊去顫器（Automated External Defibrillator, AED）之操作，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "聽到 AED 發出電擊指示，應立即按電擊按鈕"
+        },
+        {
+          "key": "B",
+          "text": "若病人體內裝有人工心臟節律器就不能使用 AED AED"
+        },
+        {
+          "key": "C",
+          "text": "會自動偵測被施救者心律，只有需要電擊時才會指示電擊"
+        },
+        {
+          "key": "D",
+          "text": "需由醫護人員來操作使用較安全"
+        }
+      ],
+      "answer": "C",
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "114-practice-41",
+      "year": 114,
+      "subject": "practice",
+      "number": 41,
+      "text": "檢查手指指甲微血管充填時間（Capillary refill time, CRT），正常應在幾秒內恢復？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 秒 3"
+        },
+        {
+          "key": "B",
+          "text": "秒 4"
+        },
+        {
+          "key": "C",
+          "text": "秒 5"
+        },
+        {
+          "key": "D",
+          "text": "秒"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-42",
+      "year": 114,
+      "subject": "practice",
+      "number": 42,
+      "text": "根據緊急止血急救中使用戰術止血帶（C. A. T.）來止血的注意事項，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "止血帶綁的鬆緊度應一手指能伸入為原則"
+        },
+        {
+          "key": "B",
+          "text": "止血帶主要是用於緊急大量靜脈出血"
+        },
+        {
+          "key": "C",
+          "text": "綁上止血帶後須注意每 30 分鐘應鬆開 3 分鐘"
+        },
+        {
+          "key": "D",
+          "text": "止血帶綁的部位是出血傷口上方 5 - 8 公分"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "114-practice-43",
+      "year": 114,
+      "subject": "practice",
+      "number": 43,
+      "text": "急性心臟病處理之應注意事項，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將患者採半坐臥姿勢，並解開束縛衣物，以利呼吸的順暢"
+        },
+        {
+          "key": "B",
+          "text": "如患者曾接受過治療，有醫生處方藥物，需只有醫療人員才能協助給予服用"
+        },
+        {
+          "key": "C",
+          "text": "供給適當通風，迅速撥打 119（緊急醫療網）求援及送醫"
+        },
+        {
+          "key": "D",
+          "text": "必要時給予心肺復甦術及自動體外電擊去顫器去顫"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-44",
+      "year": 114,
+      "subject": "practice",
+      "number": 44,
+      "text": "有關中風患者之緊急處置，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小口喝水以補充水分"
+        },
+        {
+          "key": "B",
+          "text": "儘快撥打 119 送至醫院"
+        },
+        {
+          "key": "C",
+          "text": "建議家屬立刻給予服用降血壓劑"
+        },
+        {
+          "key": "D",
+          "text": "儘快以針刺耳垂放血"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-45",
+      "year": 114,
+      "subject": "practice",
+      "number": 45,
+      "text": "下列有關中式圓桌用餐禮儀，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "當別人取菜時，要留意勿轉動桌面"
+        },
+        {
+          "key": "B",
+          "text": "取菜完後，依照順時針方向轉給下一位"
+        },
+        {
+          "key": "C",
+          "text": "用筷子戳不易挾取的食物，以方便進食"
+        },
+        {
+          "key": "D",
+          "text": "與人交談時，將筷子暫時放在筷架上"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-46",
+      "year": 114,
+      "subject": "practice",
+      "number": 46,
+      "text": "住宿飯店時，下列何項服務不需給小費？",
+      "options": [
+        {
+          "key": "A",
+          "text": "客房清潔人員"
+        },
+        {
+          "key": "B",
+          "text": "櫃檯接待人員"
+        },
+        {
+          "key": "C",
+          "text": "服務中心行李員"
+        },
+        {
+          "key": "D",
+          "text": "餐廳服務人員"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "114-practice-47",
+      "year": 114,
+      "subject": "practice",
+      "number": 47,
+      "text": "有關搭乘電梯的禮儀，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "進入電梯後應該轉身面對電梯門，避免與他人面對面而產生尷尬"
+        },
+        {
+          "key": "B",
+          "text": "站在樓層按鈕旁的人，應該主動幫忙按他人想要到達的樓層"
+        },
+        {
+          "key": "C",
+          "text": "在電梯中遇到長官，要有禮貌且熱情地打招呼"
+        },
+        {
+          "key": "D",
+          "text": "要把握「長者或女士先進先出」的原則"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "114-practice-48",
+      "year": 114,
+      "subject": "practice",
+      "number": 48,
+      "text": "三人並行時，其尊卑的位置排列，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "右次之，中為尊，左最小"
+        },
+        {
+          "key": "B",
+          "text": "右最小，中次之，左為尊"
+        },
+        {
+          "key": "C",
+          "text": "右為尊，中次之，左最小"
+        },
+        {
+          "key": "D",
+          "text": "左為尊，中最小，右次之"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "114-practice-49",
+      "year": 114,
+      "subject": "practice",
+      "number": 49,
+      "text": "當男主人親自駕車，搭載一對友人夫妻時，中途女主人下車離開，這時友人夫妻應該如何選擇座位？",
+      "options": [
+        {
+          "key": "A",
+          "text": "夫移往前座，妻坐在後座右方"
+        },
+        {
+          "key": "B",
+          "text": "夫移往前座，妻坐在後座左方"
+        },
+        {
+          "key": "C",
+          "text": "妻移往前座，夫坐在後座右方"
+        },
+        {
+          "key": "D",
+          "text": "兩人皆應維持坐在後座"
+        }
+      ],
+      "answer": "D",
+      "acceptedAnswers": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "114-practice-50",
+      "year": 114,
+      "subject": "practice",
+      "number": 50,
+      "text": "下列在公眾場合中的稱呼，何者不合乎禮節？",
+      "options": [
+        {
+          "key": "A",
+          "text": "為了表示親近隨和，稱呼已熟識的下屬，可以省去姓氏直呼名字"
+        },
+        {
+          "key": "B",
+          "text": "遇見已退休的長官，還是可以稱呼對方原先的頭銜"
+        },
+        {
+          "key": "C",
+          "text": "在正式場合對於「醫生」慣用的稱謂為「某某醫師」"
+        },
+        {
+          "key": "D",
+          "text": "不知道對方的職銜與稱謂，可稱呼「帥哥」、「美女」"
+        }
+      ],
+      "answer": "D"
+    }
+  ]
+}

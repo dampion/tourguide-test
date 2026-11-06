@@ -1,0 +1,58 @@
+[
+  {
+    "subject": "practice",
+    "type": "questions",
+    "url": "https://register-exam.tad.gov.tw/tourism/doc/qah/114/1301Q.pdf",
+    "filename": "practice-questions.pdf",
+    "size": 337156
+  },
+  {
+    "subject": "practice",
+    "type": "answers",
+    "url": "https://register-exam.tad.gov.tw/tourism/doc/qah/114/1301A.pdf",
+    "filename": "practice-answers.pdf",
+    "size": 52657
+  },
+  {
+    "subject": "practice",
+    "type": "corrections",
+    "url": "https://register-exam.tad.gov.tw/tourism/doc/qah/114/1301AN.pdf",
+    "filename": "practice-corrections.pdf",
+    "size": 123268
+  },
+  {
+    "subject": "regulation",
+    "type": "questions",
+    "url": "https://register-exam.tad.gov.tw/tourism/doc/qah/114/2301Q.pdf",
+    "filename": "regulation-questions.pdf",
+    "size": 402075
+  },
+  {
+    "subject": "regulation",
+    "type": "answers",
+    "url": "https://register-exam.tad.gov.tw/tourism/doc/qah/114/2301A.pdf",
+    "filename": "regulation-answers.pdf",
+    "size": 51208
+  },
+  {
+    "subject": "resources",
+    "type": "questions",
+    "url": "https://register-exam.tad.gov.tw/tourism/doc/qah/114/3301Q.pdf",
+    "filename": "resources-questions.pdf",
+    "size": 439509
+  },
+  {
+    "subject": "resources",
+    "type": "answers",
+    "url": "https://register-exam.tad.gov.tw/tourism/doc/qah/114/3301A.pdf",
+    "filename": "resources-answers.pdf",
+    "size": 49085
+  },
+  {
+    "subject": "resources",
+    "type": "corrections",
+    "url": "https://register-exam.tad.gov.tw/tourism/doc/qah/114/3301AN.pdf",
+    "filename": "resources-corrections.pdf",
+    "size": 119723
+  }
+]
